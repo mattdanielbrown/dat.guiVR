@@ -20,7 +20,7 @@
     "grunt-cli": "*",
     "grunt-concurrent": "*",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "*",
     "grunt-express-server": "*",
     "load-grunt-tasks": "*"
